@@ -123,6 +123,10 @@ find_version () {
             patch_version="0.0.10"
             qt_plugin_ver="6"
             ;;
+        "539edf092c90d98ab23446beada5dd2893234997")
+            patch_version="0.0.10"
+            qt_plugin_ver="6"
+            ;;
     esac
 }
 
